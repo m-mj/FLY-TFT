@@ -75,7 +75,7 @@ install_drive() {
 }
 
 set_configs() {
-    CONFIG_FILE="/boot/firmware/config.txt"
+    CONFIG_FILE="/boot/config.txt"
     PARAM_LINE="dtparam=i2c_arm=on"
     FLYTFT_LINE="dtoverlay=fly-tft-v2"
 
