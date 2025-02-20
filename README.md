@@ -47,7 +47,7 @@ Supported devices: `Raspberry Pi zreo 2`, `Raspberry Pi zreo 2W`, `Raspberry Pi 
 
 1. Install the FLY-TFT-V2 driver:
     ```bash
-    git clone https://github.com/kluoyun/FLY-TFT.git
+    git clone https://github.com/m-mj/FLY-TFT.git
     cd FLY-TFT
     sudo chmod +x ./scripts/install.sh
     ./scripts/install.sh
